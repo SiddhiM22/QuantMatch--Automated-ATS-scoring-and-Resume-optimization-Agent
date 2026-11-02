@@ -1,0 +1,6 @@
+{
+  "name": "CareerStrategist ATS Agent",
+  "description": "AI Career Strategist, ATS Optimization Specialist, and Automated Job Application Agent with strict confirmation workflows and line-by-line resume tailoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
